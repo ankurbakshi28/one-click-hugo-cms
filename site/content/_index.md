@@ -1,6 +1,6 @@
 ---
 title: BEW Solar
-subtitle: Moving Businesses to a Cleaner Future
+subtitle: Moving India to a Clean Future
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why BEW?
